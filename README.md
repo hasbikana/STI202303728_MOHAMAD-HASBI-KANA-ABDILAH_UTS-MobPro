@@ -1,6 +1,5 @@
 # my_event_planner
-
-A new Flutter project.
+TUGAS UTS STI202303728 MOAHAMD HASBI KANA ABDILAH 
 
 ## Getting Started
 
